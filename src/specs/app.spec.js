@@ -1,4 +1,4 @@
-import { nameIsValid, fullTrim, getTotal } from '../src/app.js'
+import { nameIsValid, fullTrim, getTotal } from '../app.js'
 import {describe, expect, test} from '@jest/globals'
 
 //домашнее задание 4
