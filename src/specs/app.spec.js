@@ -11,7 +11,7 @@ describe('nameIsValid', () => {
         expect(nameIsValid).toBeTruthy()
     });
     test("name is valid", () => {
-        expect(nameIsValid('maksim')).toBe(true);
+        expect(nameIsValid('maksin')).toBe(true);
     });
 
 
