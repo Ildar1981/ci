@@ -9,9 +9,6 @@ on:
   pull_request:
     branches: [ "master" ]
 
-shedule:
- -cron: '* 8,21 * * *'
-
 jobs:
   build:
 
